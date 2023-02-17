@@ -1,11 +1,11 @@
 /*
  * File: 2-print_alphabet.c
- * Auth: Brennan D Baraban
+ * Auth: Amaan David 
  */
 
 #include <stdio.h>
 
-/**
+/**i
  * main - Prints the alphabet in lowercase.
  *
  * Return: Always 0.
